@@ -1,0 +1,1 @@
+// stript file added
