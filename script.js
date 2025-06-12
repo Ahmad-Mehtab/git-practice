@@ -6,12 +6,7 @@
 
 
 
-const testFunction = (firstName, lastName) => {
-    console.log(firstName, lastName);
-}
 
-
-testFunction("ahmad", "mehtab")
 
 
 const sumTwoValue = (num1, num2) => {
