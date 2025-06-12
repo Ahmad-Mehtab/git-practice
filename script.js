@@ -12,3 +12,11 @@ const testFunction = (firstName, lastName) => {
 
 
 testFunction("ahmad", "mehtab")
+
+
+const sumTwoValue = (num1, num2) => {
+    return num1 + num2
+}
+
+const resultOfTwoValues = sumTwoValue(5, 6)
+console.log('resultOfTwoValues: ', resultOfTwoValues);
